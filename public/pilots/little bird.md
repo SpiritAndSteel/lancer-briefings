@@ -1,0 +1,7 @@
+## PILOT BIOGRAPHY
+Raised on a spaceship that long ago befell calamity, Gentoo was raised primarily by her NHP and the loveable (if you set the right search parameters) idiots on the omninet. Gentoo doesn't remember her family or life before coding, restarting Sophia, and dealing with the constant issues of a partially-junked vessel. After her last big data leak got the wrong people in trouble, she was finally keel-hauled in by the Union and put to work – away from the keyboard.
+
+## PILOT APPEARANCE
+After years in space, several critical ones without gravity, Gen has a highly unusual and deeply-modded appearance. She has a petite, short torso with elongated, enhanced arms and limbs. Her legs are digitigrade, but her arms are even more eccentric: too-long arms end in too-long hands with a sixth digit and an extra knuckle on each finger. Most of these structural changes had to be made to accommodate her body, wasted from low-grav, but she did everything she could to enhance her enhancements. One even bears a retractable blade. 
+
+She has subdermal wiring placed throughout her body, some pre-programmed as quick buttons or actions, some to communicate with the swarm, some to monitor and manipulate her bodily functions, and others she doesn't talk about. Her eyes have been replaced to better serve as a UI for her world, including reading live code from machines around her.

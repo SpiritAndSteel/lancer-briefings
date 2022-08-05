@@ -101,52 +101,52 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "callsign": "Scythian",
+          "alias": "Bogdan Eriksen",
+          "code": "Eriksen.Bogdan:6dc0749f-b676-4f81-ac34-2be0fc0798e8//NDL-C-STOLEN-IRIS",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "mech": "The Carpathian"
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
+          "callsign": "Valkyrie",
+          "alias": "Lena Eriksen",
+          "code": "Eriksen.Lena:a80efcd2-4898-4563-a319-71c9a8523a5b//NDL-C-FALLEN-CAIRN",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Necrophile"
+          "mech": "Sygni"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "callsign": "Paper Crane",
+          "alias": "Tien Shen",
+          "code": "Shen.Tien:12638ac4-be11-4f40-a629-0e181102b293//NDL-C-SORROW-SKY",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": "Reach Heaven by Violence"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "Black Mirror",
+          "alias": "Mira",
+          "code": ".Mira:b81b944d-d483-4f33-b082-ba5570314fce//NDL-C-DEEP-DOLMEN",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Mayfly"
+          "mech": "nil"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "callsign": "Little Bird",
+          "alias": 'Gentoo ',
+          "code": ".Gentoo:69f73128-533f-447b-9d57-82cddf2395d3//NDL-C-DARK-GIFT",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Rio Bravo"
+          "mech": "The Weather"
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "planet": "Asphodel",
+        "year": "5016u",
+        "system": "Khore-19A",
+        "gate": "Úytaahkoo",
+        "ring": "Cascade-Line",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",
