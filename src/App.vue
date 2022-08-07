@@ -95,7 +95,12 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "As Above",
+          "status": "start"
+        },
+        {
+          "slug": "Optional",
+          "name": "SSC Data",
           "status": "start"
         },
       ],
