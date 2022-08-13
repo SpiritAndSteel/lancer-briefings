@@ -99,7 +99,7 @@ export default {
           "status": "start"
         },
         {
-          "slug": "Optional",
+          "slug": "Optional-1",
           "name": "SSC Data",
           "status": "start"
         },
@@ -129,22 +129,22 @@ export default {
           "frame": "Everest",
           "mech": "Reach Heaven by Violence"
         },
-        {
+        /*{
           "callsign": "Black Mirror",
           "alias": "Mira",
           "code": ".Mira:b81b944d-d483-4f33-b082-ba5570314fce//NDL-C-DEEP-DOLMEN",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "nil"
-        },
-        {
+        },*/
+        /*{
           "callsign": "Little Bird",
-          "alias": 'Gentoo ',
-          "code": ".Gentoo:69f73128-533f-447b-9d57-82cddf2395d3//NDL-C-DARK-GIFT",
+          "alias": 'Gentoo Mellisuga',
+          "code": "Mellisuga.Gentoo:69f73128-533f-447b-9d57-82cddf2395d3//NDL-C-DARK-GIFT",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "The Weather"
-        },
+        },*/
       ],
       "header": {
         "planet": "Asphodel",
@@ -154,8 +154,8 @@ export default {
         "ring": "Cascade-Line",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "Emergency Auxilliary",
+        "subheaderSubtitle": "Lodestar",
       },
       "options":{
         "eventsMarkdownPerMission": true
