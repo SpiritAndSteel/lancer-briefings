@@ -3,9 +3,9 @@
 
 To the Honorable Captain Eriksen and the Pilots of the Lodestar,
 
-My name is **Kaitlyn Yamazaki**, Operational Lead of the Smith-Shimano Corpro's Special Projects and Aquisitions Unit. It is a pleasure to make your acquaintance.
+My name is **Yamazaki Maia**, Aquisitions Lead of the Smith-Shimano Corpro's Exotic Materials Group. It is a pleasure to make your acquaintance.
 
-I have been in contact with **Admiral Tran** regarding the illegal mercenary incursion in to one of the SSC's defunct holdings. I understand that the stakes of your mission are much greater than a simple matter of tresspassing, and the SSC has been happy to provide any useful data to Union to make sure the Mission is successful.
+I have been in contact with **Rear Admiral Tran** regarding the illegal mercenary incursion in to one of the SSC's defunct holdings. I understand that the stakes of your mission are much greater than a simple matter of tresspassing, and the SSC has been happy to provide any useful data to Union to make sure the Mission is successful.
 
 However, this puts us in a somewhat sticky legal position regarding intellectual property and data security. As the crew of the Lodestar are contractors and not members of Union Military, we must work out some arrangement to make sure SSC's holdings remain secure, and to ease any legal liabilty on your part regarding your imminent presence within one of our private facilities.
 
@@ -19,4 +19,4 @@ Your cooperation in this matter is greatly appreciated. I hope that we can work 
 
 お忙しいところ恐縮ですが、ご返信を頂けますと幸いです。
 
-Kaitlyn Yamazaki, OL, SSC SPAU
+Yamazaki Maia, AL, XMG-SSC
